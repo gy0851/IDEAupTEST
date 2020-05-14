@@ -10,7 +10,7 @@ public class Demo {
     }
 
     public static StringBuffer mathod() {
-        StringBuffer sb = new StringBuffer("fuck you bitch!!");
+        StringBuffer sb = new StringBuffer("yeah yeah");
         return sb;
     }
 }
